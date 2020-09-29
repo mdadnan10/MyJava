@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TitlecaseConveter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TitlecaseConveter_jar</output-path>
+    <root id="archive" name="TitlecaseConveter.jar">
+      <element id="module-output" name="TitlecaseConveter" />
+    </root>
+  </artifact>
+</component>
